@@ -1,0 +1,6 @@
+Language/runtime: Node.js 20
+Framework: Express
+Test framework: Jest
+API testing library: Supertest
+Build/package tool: npm
+Application version: 1.0.0

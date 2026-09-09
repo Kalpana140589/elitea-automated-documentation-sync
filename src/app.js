@@ -1,0 +1,1 @@
+The service exposes a health-check endpoint and returns the current service status.

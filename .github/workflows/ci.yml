@@ -1,0 +1,2 @@
+CI platform: GitHub Actions
+Pipeline evidence: .github/workflows/ci.yml
